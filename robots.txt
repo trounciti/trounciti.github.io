@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://trounciti.github.io/sitemap.html.gz
+Sitemap: https://trounciti.github.io/app/sitemap.html.gz
+Sitemap: https://trounciti.github.io/assets/sitemap.html.gz
+Sitemap: https://trounciti.github.io/css/sitemap.html.gz
+Sitemap: https://trounciti.github.io/includes/sitemap.html.gz
+Sitemap: https://trounciti.github.io/item/sitemap.html.gz
+Sitemap: https://trounciti.github.io/src/sitemap.html.gz
